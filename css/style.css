@@ -1,18 +1,26 @@
-body {
-
-}
-
-
-section {
+.intro{
   margin: auto;
+  font-style: italic;
 }
+
+figure {
+  margin: 245px;
+}
+
  h1 {
   text-align: center;
-  font-style: italic;
   color:green;
   text-shadow: 10px;
 }
 
 h2{
   text-align: center;
+}
+
+.box {
+  padding-left: 250px;
+}
+
+.highlight {
+  font-style: normal;
 }
